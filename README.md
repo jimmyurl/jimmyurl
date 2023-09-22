@@ -26,13 +26,13 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Full Stack Software Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Full Stack Software Developer, a huge fan of the MERN stack for building web applications and of course Flutter for mobile development.
 
 - :seedling: Contact me if you have something we can talk out or let's discuss how we can use the technology to transform people's lives.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, read tech articles and self development books and play basketball and watching footie on weekends.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.linkedin.com/in/james-mpanga/]
+
 
 ---
 
