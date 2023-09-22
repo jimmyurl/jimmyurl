@@ -30,7 +30,7 @@
 
 - :seedling: Contact me if you have something we can talk out or let's discuss how we can use the technology to transform people's lives.
 
-- :zap: In my free time, read tech articles and self development books and play basketball and watching footie on weekends.
+- :zap: In my free time?...,well I like to read tech articles and self development books, playing basketball and watching footie on weekends.
 
 
 
