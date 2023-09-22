@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m a Full Stack Software Developer, a huge fan of the MERN stack for building web applications and of course Flutter for mobile development.
+- :telescope: I’m a Full Stack Software Developer, a passionate about applying knowledge and skills to make the world a better for all.
 
 - :seedling: Contact me if you have something we can talk out or let's discuss how we can use the technology to transform people's lives.
 
