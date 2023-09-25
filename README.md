@@ -13,7 +13,7 @@
   </a>
 
   <h1>
-  Hey there | Salut | Hallo
+  Hey there | Salut | Hallo....
   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZteWd4c3I5Y3R0dWJzMTZ4dHQzYmt1cHNna3AwemZsYzlibzNrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZteWd4c3I5Y3R0dWJzMTZ4dHQzYmt1cHNna3AwemZsYzlibzNrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
     :wave:
 </h1>
